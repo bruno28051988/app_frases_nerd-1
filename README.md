@@ -8,7 +8,7 @@ Escolhi as frases do mundo nerd, pois como bom nerd estou valorizando o meu mund
 ![Capa_Frases_Nerd](https://user-images.githubusercontent.com/6373438/109045612-90c4b980-76b2-11eb-9ed3-7324cd7a1a95.jpg)
 
 
-![Version](https://img.shields.io/badge/Version-1.0.0-F21B3F) ![Build](https://img.shields.io/badge/Build-Passing-29BF12) ![Projeto](https://img.shields.io/badge/Projeto-FrasesNerd-333333) ![Code_Quality](https://img.shields.io/badge/Code_Quality-Good-3A5683) ![Languange Java](https://img.shields.io/badge/Language-Java-007396) ![Android](https://img.shields.io/badge/Platform-Android-3DDC84) 
+![Version](https://img.shields.io/badge/Version-1.0.0-F21B3F) ![Build](https://img.shields.io/badge/Build-Passing-29BF12) ![Projeto](https://img.shields.io/badge/Projeto-FrasesNerd-333333) ![Code_Quality](https://img.shields.io/badge/Code_Quality-Good-3A5683) ![Languange Java](https://img.shields.io/badge/Language-Java-007396) ![Android](https://img.shields.io/badge/Platform-Android-3DDC84) ![Dev](https://img.shields.io/badge/Dev-AdrianoLeitedaSilva-EE6123) 
 
 <img src="https://user-images.githubusercontent.com/6373438/109046401-72ab8900-76b3-11eb-8f6c-9faf8d226656.jpg" width="25%">
 <img src="https://user-images.githubusercontent.com/6373438/109046397-7212f280-76b3-11eb-9a78-f81ce8e5c45a.jpg" width="25%"> 
