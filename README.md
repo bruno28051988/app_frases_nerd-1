@@ -1,6 +1,6 @@
 # App Frases Nerd
 
-Um app utilizado para ensinar o desenvolvimento Android com Java. Nesse app o usuário clica no botão gerar frase e o sistema gera uma frase e apresenta-la de forma ranômica. 
+Um app utilizado para ensinar o desenvolvimento Android com Java. Nesse app o usuário clica no botão gerar frase e o sistema gera uma frase e apresenta-la de forma randômica. 
 
 Escolhi as frases do mundo nerd, pois como bom nerd estou valorizando o meu mundo. rsrsrsrs.
 
